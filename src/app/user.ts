@@ -3,8 +3,9 @@ export class User {
   emailId: string;
   firstName: string;
   lastName: string;
-  mobileNumber:string;
+  mobileNumber: string;
   password: string;
+  aadhar: string;
 
   constructor() {}
 }
